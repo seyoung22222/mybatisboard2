@@ -1,2 +1,2 @@
-# mybatisboard21
+# mybatisboard
 mybatis
